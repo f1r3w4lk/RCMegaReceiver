@@ -1,0 +1,16 @@
+##########################################
+# Syntax Coloring Map For RCMegaReceiver
+##########################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+readRawRC	KEYWORD2
+computeRC	KEYWORD2
+configureReceiver	KEYWORD2
+getRcData	KEYWORD2
